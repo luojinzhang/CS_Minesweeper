@@ -1,0 +1,30 @@
+C:\Users\admin1\AppData\Local\Temporary Projects\Silent Hill\bin\Debug\Silent Hill.exe.config
+C:\Users\admin1\AppData\Local\Temporary Projects\Silent Hill\bin\Debug\Silent Hill.exe
+C:\Users\admin1\AppData\Local\Temporary Projects\Silent Hill\bin\Debug\Silent Hill.pdb
+C:\Users\admin1\AppData\Local\Temporary Projects\Silent Hill\obj\Debug\Silent Hill.csprojResolveAssemblyReference.cache
+C:\Users\admin1\AppData\Local\Temporary Projects\Silent Hill\obj\Debug\Silent Hill.exe
+C:\Users\admin1\AppData\Local\Temporary Projects\Silent Hill\obj\Debug\Silent Hill.pdb
+C:\Users\Lok Kam Cheung\Desktop\Silent Hill\bin\Debug\Silent Hill.exe.config
+C:\Users\Lok Kam Cheung\Desktop\Silent Hill\obj\Debug\Silent Hill.exe
+C:\Users\Lok Kam Cheung\Desktop\Silent Hill\obj\Debug\Silent Hill.pdb
+C:\Users\Lok Kam Cheung\Desktop\Silent Hill\bin\Debug\Silent Hill.exe
+C:\Users\Lok Kam Cheung\Desktop\Silent Hill\bin\Debug\Silent Hill.pdb
+C:\Users\Lok Kam Cheung\Desktop\Silent Hill\obj\Debug\Silent Hill.csprojResolveAssemblyReference.cache
+C:\Users\Lok Kam Cheung\Desktop\Silent Hill\obj\Debug\Silent_Hill.SilentHillGame.resources
+C:\Users\Lok Kam Cheung\Desktop\Silent Hill\obj\Debug\Silent Hill.csproj.GenerateResource.Cache
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill\bin\Debug\Silent Hill.exe.config
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill\obj\Debug\Silent Hill.exe
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill\obj\Debug\Silent Hill.pdb
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill\bin\Debug\Silent Hill.exe
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill\bin\Debug\Silent Hill.pdb
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill\obj\Debug\Silent Hill.csprojResolveAssemblyReference.cache
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill\obj\Debug\Silent_Hill.SilentHillGame.resources
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill\obj\Debug\Silent Hill.csproj.GenerateResource.Cache
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill_V3\bin\Debug\Silent Hill.exe.config
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill_V3\obj\Debug\Silent Hill.exe
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill_V3\obj\Debug\Silent Hill.pdb
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill_V3\bin\Debug\Silent Hill.exe
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill_V3\bin\Debug\Silent Hill.pdb
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill_V3\obj\Debug\Silent Hill.csprojResolveAssemblyReference.cache
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill_V3\obj\Debug\Silent_Hill.SilentHillGame.resources
+D:\Doc\Học tập\Lập trình game\C#\May\Silent Hill_V3\obj\Debug\Silent Hill.csproj.GenerateResource.Cache
